@@ -1,0 +1,10 @@
+<h3><span style="background-color: #eccafa;">Instruction associated with this assignment: <a style="background-color: #eccafa;" title="Introduction to HTML" href="https://dsd.instructure.com/courses/1331407/pages/introduction-to-html" data-course-type="wikiPages" data-published="false" data-api-endpoint="https://dsd.instructure.com/api/v1/courses/1331407/pages/introduction-to-html" data-api-returntype="Page"><strong>Introduction to HTML</strong></a></span></h3>
+        <p>Fix the code so that it matches the basic foundation of every web page like we learned about in the previous assignment. There are 5 errors that need to be fixed.&nbsp; Look for missing tags, tags out order, malformed tags, etc.</p>
+        <h4><span style="background-color: #fbeeb8;"><strong>In coding, you will often do something called 'debugging'. Debugging happens when your website doesn't work how you want it to for some reason, and you need to figure out why. Usually, it is a simple error like you forgot to put a forward slash in front of your end tag or forgot an end caret (&gt;) on one of your tags. This assignment will help you practice finding basic errors in an HTML document so that you will be able to fix your own code more easily throughout the semester.</strong></span></h4>
+        <p>View the <strong><a class="instructure_file_link inline_disabled" href="https://dsd.instructure.com/courses/1331407/pages/debugging-help-common-errors-to-check" target="_blank" rel="noopener" data-api-endpoint="https://dsd.instructure.com/api/v1/courses/1331407/pages/debugging-help-common-errors-to-check" data-api-returntype="Page">Debugging Help</a></strong> if you get stuck!</p>
+    </div>
+    <div id="fragment-2">
+        <p><strong>Take a screen shot using the Snipping Tool of your fixed code and upload it to this assignment for grading. On a Windows computer, just type 'snipping tool' in the search box on the bottom left of the screen. If you don't have a Windows computer, look up how to take a screenshot on your computer.</strong></p>
+        <p><span style="background-color: #fbeeb8;"><strong>Accepted file types are jpg and png.</strong></span></p>
+    </div>
+</div>
